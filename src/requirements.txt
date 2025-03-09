@@ -1,0 +1,3 @@
+python-terrier
+pandas
+sentence-transformers
