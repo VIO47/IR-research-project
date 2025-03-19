@@ -2,3 +2,4 @@ python-terrier
 pandas
 sentence-transformers
 faiss-cpu
+torch==1.4.0
