@@ -6,4 +6,5 @@ __pycache__
 colbert_checkpoint
 colbert-index
 msmarco-index
+nfcorpus-index
 *.zip
