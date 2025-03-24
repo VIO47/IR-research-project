@@ -4,7 +4,4 @@ __pycache__
 .env
 .venv
 colbert_checkpoint
-colbert-index
-msmarco-index
-nfcorpus-index
 *.zip
