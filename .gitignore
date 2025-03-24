@@ -3,5 +3,8 @@ __pycache__
 .vscode
 .env
 .venv
+antique-*
+fiqa-*
+vaswani-*
 colbert_checkpoint
 *.zip
