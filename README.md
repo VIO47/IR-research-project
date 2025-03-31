@@ -13,13 +13,9 @@ git clone https://github.com/yourusername/IR-research-project.git
 cd IR-research-project
 ```
 
-2. Install the required Python packages:
+2. Install the following zip-file containing an ANCE checkpoint (https://drive.google.com/file/d/1rM3ijQU-K8AX4diVwW9ZwvZJkITzvEl7/view?usp=drive_link) and place it in the root directory.
 
-```bash
-pip install -r src/requirements.txt
-pip install -q git+https://github.com/terrierteam/pyterrier_colbert.git
-pip install  --upgrade git+https://github.com/cmacdonald/pyterrier_bert.git
-```
+3. Install the required Python packages (by running the `installs.ipynb` notebook and following the instructions inside), select the kernel pointing to the virtual environment, and run an experimentation notebook of choice.
 
 ## Environment Requirements
 
@@ -53,6 +49,7 @@ _Effectiveness Metrics:_
 
 - **Mean Average Precision (MAP):** Captures the overall relevance of all retrieved documents.
 - **Normalized Discounted Cumulative Gain at rank 10 (nDCG@10):** Reflects the quality of the top-ranked results.
+- **Mean Reciprocal Rank (MRR):** Indicates the average position of the first relevant item in the ranking.
 
 _Efficiency Metric:_
 
