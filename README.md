@@ -13,7 +13,7 @@ git clone https://github.com/yourusername/IR-research-project.git
 cd IR-research-project
 ```
 
-2. Install the following zip-file containing an ANCE checkpoint (https://drive.google.com/file/d/1rM3ijQU-K8AX4diVwW9ZwvZJkITzvEl7/view?usp=drive_link) and place it in the root directory.
+2. Install the following zip-file containing an ANCE checkpoint (https://drive.google.com/file/d/1IHqi2EpU3hdoa06LWbpoAzg21oVT7e2o/view?usp=drive_link) and place it in the root directory.
 
 3. Install the required Python packages (by running the `installs.ipynb` notebook and following the instructions inside), select the kernel pointing to the virtual environment, and run an experimentation notebook of choice.
 
